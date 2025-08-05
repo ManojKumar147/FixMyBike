@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496514251424",
+    "project_id": "fix-my-bike-ee181",
+    "storage_bucket": "fix-my-bike-ee181.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496514251424:android:3294cd38c8af0052e1e7c5",
+        "android_client_info": {
+          "package_name": "com.fix_my_bike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmKvCN1jBr6BVbRY9Qg4NYTJ2qkDYISo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
